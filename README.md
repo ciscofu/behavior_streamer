@@ -16,7 +16,7 @@ Add the dependency to `pubspec.yaml`:
 
 ```dart
 dependencies:
-  behavior_streamer: 0.1.0
+  behavior_streamer: 0.1.2
 ```
 
 Add the import to any files working with `BehaviorStreamer`:

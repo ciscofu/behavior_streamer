@@ -1,3 +1,7 @@
+## 0.1.2
+
+- Documentation fix.
+
 ## 0.1.1
 
 - Added an example main.dart
