@@ -1,5 +1,5 @@
 name: behavior_streamer
-description: A starting point for Dart libraries or applications.
+description: Dart stream creator that always sends the latest value to new listeners.
 version: 0.1.0
 repository: https://github.com/ciscofu/behavior_streamer
 
