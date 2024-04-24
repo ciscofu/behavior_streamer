@@ -1,0 +1,3 @@
+This example is a recreation of the default Flutter counter application. A BehaviorStreamer is used to manage counter state, allowing the Flutter widgets to be stateless.
+
+In the example, the BehaviorStreamer is created as a field in the MyHomePage widget. In a less trivial application, the BehaviorStreamer would be made available to different parts of the application via a state provider such as Provider or GetIt.
